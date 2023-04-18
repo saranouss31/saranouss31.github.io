@@ -11,3 +11,4 @@ My second project focused on practicing technical analysis skills, such document
 
 
 
+
